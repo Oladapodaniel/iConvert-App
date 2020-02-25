@@ -1,0 +1,178 @@
+body {
+	font-family: Century Gothic;
+}
+#header_logo_background {
+	color: white;
+	text-shadow: 2px 2px 4px black;
+	font-size: 20px;
+	background-color: rgb(131, 117, 214);
+	padding: 7px;
+	padding-left: 55px;
+	margin: 0;
+}
+
+#header_nav {
+	float: right;
+}
+
+#iConvert_logo_position {
+	position: absolute;
+	top: 13px;
+	left:10px;
+	padding-left: 8px;
+}
+
+#header_nav {
+	color: white;
+	padding: 10px;
+	padding-right: 70px;
+
+}
+
+#iConvert_image {
+	width: 50%;
+	height: auto;
+	position: relative;
+	top: 35px;
+	left: 30px;
+}
+
+
+#table_background {
+	padding-top: 15px;
+
+	background-color: #8375D6;
+	width: 350px;
+	height: auto;
+	position: absolute;
+	top: 60%;
+	left:  60%;
+}
+
+
+#table_header {
+	background-color: #8375D6;
+	color: white;
+	text-align: center;	
+	padding-top: 15px;
+	/*border: 2px solid red;*/
+}
+
+.first_row {
+	background-color: #CAC4EE;
+	border: 12px solid white;
+
+}
+
+.second_row {
+	background-color: #DAD7EB
+}
+
+.table_row {
+	margin-left: 68%;
+	color: #00C883;
+	font-family: Calibri (Body);
+	font-style: italic;
+}
+
+
+/*.space {
+	margin-left: 50%;
+}
+.fifty_space{
+	margin-left: 51.5%
+}
+.one_hundred_space {
+	margin-left: 50%;
+}
+.five_hundred_space {
+	margin-left: 49%;
+}
+.one_thousand_space {
+	margin-left: 48%;
+}*/
+
+#block_one {
+	background-color: #8375D6;
+	width: 308px;
+	height: auto;
+	position: absolute;
+	top: 25%;
+	left:  60%;
+	padding: 20px;
+	padding-bottom: 34px;
+	color: white;
+	text-shadow: 2px 2px 7px black;
+	
+
+}
+ /*  0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) */
+
+#D3_block_one {
+	
+	background-color: #CAC4EE;
+	width: 355px;
+	height: 140px;
+	position: absolute;
+	top: 24.5%;
+	left:  59.7%;
+}
+
+
+#inner_block_one_background {
+	background-color: #262633;
+	font-size: 15px;
+	padding: 2px;
+	padding-bottom: 15px;
+	padding-left: 8px;
+	padding-top: 5px;
+	font-size: 13px;
+	color: rgb(123, 123, 136);
+	border: none;
+	width: 95%;
+	border-bottom: 2px solid rgb(123, 123, 136);
+	position: relative;
+	top: 10px;
+	left: 0;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+#amount {
+	background-color: #262633;
+	font-size: 15px;
+	font-size: 13px;
+	color: rgb(123, 123, 136);
+	border: none;
+	width: 95%;
+	border-bottom: 2px solid rgb(123, 123, 136);
+}
+#inner_block_one {
+	font-size: 13px;
+	padding-bottom: 5px;
+	color: rgb(123, 123, 136);
+}
+
+
+#convert {
+	background-color: #00C883;
+	font-size: 14px;
+	font-family: Century Gothic;
+	color: white;
+	width: 70px;
+	height: auto;
+	position: absolute;
+	top: 43%;
+	left: 72.5%;
+	padding: 6px;
+	border-radius: 10px;
+}
+
+/*#border {
+	border: 5px solid red;
+
+}
+td {
+	background-color: gray;
+	border: 2px dotted yellow;
+
+}*/
